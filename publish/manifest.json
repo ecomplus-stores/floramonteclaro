@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.683f95b41a2eeb171bf4a5b403794d01.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.eb65e65eb9c2c0a6c8e16fda53e11fe6.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.02889d19054140dd1e3acd9cb0a95031.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.d50380b973aca4f0ba86e84ea7cd131d.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.0f6d7e4e769c42f75837cc610d59bb88.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Flora Monte Claro",
+  "short_name": "floramonteclaro",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "floramonteclaro ",
+  "background_color": "#ffffff",
+  "theme_color": "#449f38"
+}
